@@ -18,8 +18,9 @@ body {
   align-items:center;
 }
 
-.login-left img{
-  width:80%;
+.login-left 
+{
+  width: 80%;
 }
 
 .login-right{

@@ -6,7 +6,7 @@ function Login() {
         <div className="login-container">
 
             <div className="login-left">
-                <img src={imgLogin} alt="education illustration" />
+                <img src={imgLogin} alt="education illustration" width={740} height={570} />
             </div>
 
             <div className="login-right">
